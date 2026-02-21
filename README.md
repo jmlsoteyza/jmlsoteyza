@@ -27,7 +27,7 @@ Firestore · Google Cloud · Figma · Canva · Hotjar · VScode
 - TrueRoas – A platform to track and analyze ad campaigns. I built features to help track results and improve campaign performance.
 - HouseofInasal - A web app for a local restaurant to show their menu and offers. I designed and developed a responsive, easy-to-use site.
 - Anteriore – Refactored and maintained a production website for Anteriore, improving its functionality.
-- KicksAE – A sneaker-selling web app. Work on both design and development.
+- KicksAE – A sneaker-selling web app. Worked on both design and development.
 - CoinsAE – A cryptocurrency web app showcasing live crypto data. Worked on both design and development.
 
 #### Let's Connect:
