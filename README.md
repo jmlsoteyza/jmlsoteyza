@@ -1,14 +1,35 @@
+sup, i'm jom! 👽
 
-# Front End Developer
+---
 
-<font size="4">Hi, 👋 I'm Jom Luis Oteyza🤖 </font>
+Front-End Developer · some back-end 👾
 
+**I like design and turn it into websites, breaking a few things along the way** 🚀
 
-*   🌍  I'm based in Dubai, United Arab Emirates
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://jmlsoteyza.vercel.app/'>Portfolio</a>
-*   🤝  I'm open to collaborate on interesting projects.
+#### Tech Stack:
 
-### Links
-<a href="https://jmlsoteyza.vercel.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/jom-luis-oteyza/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto: jmlsoteyza.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+---
+
+**Frontend / Backend**  
+Next.js · React · JavaScript · NodeJS · Redux · C++ · Java
+
+**Styling & Motion**  
+CSS · Tailwind CSS · Material UI · SCSS · Framer Motion
+
+**Services & Tools**  
+Firestore · Google Cloud · Figma · Canva · Hotjar · VScode
+
+#### Projects:
+
+---
+
+- Portfolio – Some of my work, experiments, and things I broke along the way
+- TrueRoas – A platform to track and analyze ad campaigns. I built features to help track results and improve campaign performance.
+- HouseofInasal - A web app for a local restaurant to show their menu and offers. I designed and developed a responsive, easy-to-use site.
+- Anteriore – Refactored and maintained a production website for Anteriore, improving its functionality.
+- KicksAE – A sneaker-selling web app. Work on both design and development.
+- CoinsAE – A cryptocurrency web app showcasing live crypto data. Worked on both design and development.
+
+#### Let's Connect:
+
+---
