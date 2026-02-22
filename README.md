@@ -23,3 +23,4 @@ Node.js · Firestore · Google Cloud
 - CoinsAE – A cryptocurrency web app showcasing live crypto data. Designed and developed the frontend, focusing on data presentation and usability.
 
 ## Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jom-luis-oteyza/)
