@@ -9,7 +9,7 @@
 Next.js · React · JavaScript · Redux
 
 **Styling & Motion**  
-CSS · Tailwind CSS · SCSS · Material UI · Framer Motion
+CSS · Tailwind CSS · SCSS · Material UI · Framer Motion · Figma
 
 **Services & Tools**  
 Node.js · Firestore · Google Cloud
