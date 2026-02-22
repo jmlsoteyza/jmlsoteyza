@@ -1,6 +1,6 @@
 ## sup, i'm jom! 👽
 
-Front-End Developer · dabbles in back-end 👾
+**Front-End Developer · dabbles in back-end** 👾
 
 **I like design and turn it into websites, breaking a few things along the way** 🚀
 
