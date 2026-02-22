@@ -5,21 +5,21 @@ Front-End Developer · some back-end 👾
 **I like design and turn it into websites, breaking a few things along the way** 🚀
 
 ## Tech Stack:
-**Frontend / Backend**  
-Next.js · React · JavaScript · NodeJS · Redux · C++ · Java
+**Frontend**  
+Next.js · React · JavaScript · Redux
 
 **Styling & Motion**  
-CSS · Tailwind CSS · Material UI · SCSS · Framer Motion
+CSS · Tailwind CSS · SCSS · Material UI · Framer Motion
 
 **Services & Tools**  
-Firestore · Google Cloud · Figma · Canva · Hotjar · VScode
+Node.js · Firestore · Google Cloud
 
 ## Projects:
-- Portfolio – Some of my work, experiments, and things I broke along the way
-- TrueRoas – A platform to track and analyze ad campaigns. I built features to help track results and improve campaign performance.
-- HouseofInasal - A web app for a local restaurant to show their menu and offers. I designed and developed a responsive, easy-to-use site.
-- Anteriore – Refactored and maintained a production website for Anteriore, improving its functionality.
-- KicksAE – A sneaker-selling web app. Worked on both design and development.
-- CoinsAE – A cryptocurrency web app showcasing live crypto data. Worked on both design and development.
+- Portfolio – A collection of my work, experiments, and personal projects. Used to explore UI ideas, animations, and frontend patterns.
+- TrueRoas – A platform for tracking and analyzing ad campaign performance. Built frontend features to visualize results, improve data clarity, and help users better understand campaign outcomes.
+- HouseofInasal - A web app for a local restaurant to showcase their menu and promotions. Designed and developed a responsive, user-friendly interface focused on clarity and accessibility.
+- Anteriore – Maintained and refactored a production website. Improved existing functionality, cleaned up frontend logic, and worked with an existing codebase.
+- KicksAE – A sneaker e-commerce web app. Handled both design and frontend development, including layout, UI components, and application structure.
+- CoinsAE – A cryptocurrency web app showcasing live crypto data. Designed and developed the frontend, focusing on data presentation and usability.
 
 ## Let's Connect:
