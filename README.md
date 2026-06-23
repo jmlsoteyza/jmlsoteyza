@@ -12,7 +12,7 @@ Next.js · React · JavaScript · Redux
 CSS · Tailwind CSS · SCSS · Material UI · Framer Motion · Figma
 
 **Services & Tools**  
-Node.js · Firestore · Google Cloud
+Node.js · Firestore · Google Cloud · Supabase
 
 ## Projects
 - [Portfolio](https://jmlsoteyza.vercel.app/) – A collection of my work, experiments, and personal projects. Used to explore UI ideas, animations, and frontend patterns.
